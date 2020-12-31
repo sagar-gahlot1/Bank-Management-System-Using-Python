@@ -1,0 +1,3 @@
+Account number= 1101
+Current balance= 50000
+Name of custumor= SAGAR GAHLOT
